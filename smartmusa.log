@@ -36,3 +36,407 @@
 2025-04-25 15:12:29,057 - werkzeug - WARNING -  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 2025-04-25 15:12:29,057 - werkzeug - INFO -  * Running on http://192.168.219.132:5000/ (Press CTRL+C to quit)
+2025-05-25 11:09:25,251 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 11:09:29,327 - __main__ - INFO - Initializing chatbot
+2025-05-25 11:09:29,353 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 11:09:30,815 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 11:09:31,570 - __main__ - INFO - Initializing chatbot
+2025-05-25 11:09:31,580 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 11:09:31,585 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 11:09:32,534 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 11:09:32,535 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 11:10:06,162 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 11:10:06,164 - __main__ - INFO - Initializing chatbot
+2025-05-25 11:10:06,170 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 11:10:06] "GET / HTTP/1.1" 200 -
+2025-05-25 11:10:07,104 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 11:10:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-25 11:48:05,650 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 11:48:05] "GET / HTTP/1.1" 200 -
+2025-05-25 13:40:58,596 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\enhanced_data_processing.py', reloading
+2025-05-25 13:40:59,451 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:41:01,933 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:41:02,843 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:41:02,876 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:41:02,881 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:41:03,387 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:41:03,388 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:41:21,591 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\enhanced_data_processing.py', reloading
+2025-05-25 13:41:21,890 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:41:23,659 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:41:24,805 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:41:24,837 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:41:24,844 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:41:25,505 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:41:25,506 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:44:55,418 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\enhanced_chatbot.py', reloading
+2025-05-25 13:44:55,701 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:44:57,151 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:44:57,958 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:44:57,970 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:44:57,974 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:44:58,395 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:44:58,395 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:45:48,089 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\enhanced_chatbot.py', reloading
+2025-05-25 13:45:48,374 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:45:50,214 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:45:51,405 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:45:51,427 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:45:51,435 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:45:52,102 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:45:52,103 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:51:06,673 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\train_enhanced_simple.py', reloading
+2025-05-25 13:51:07,179 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:51:10,641 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:51:11,548 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:51:11,557 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:51:11,562 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:51:12,317 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:51:12,317 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:51:35,780 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\train_enhanced_simple.py', reloading
+2025-05-25 13:51:36,173 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:51:37,834 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:51:38,706 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:51:38,719 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:51:38,726 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:51:39,162 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:51:39,163 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:52:18,808 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\app.py', reloading
+2025-05-25 13:52:19,166 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:52:20,746 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:52:21,692 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:52:21,702 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:52:21,706 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:52:22,100 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:52:22,100 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:52:56,887 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\app.py', reloading
+2025-05-25 13:52:57,187 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:52:58,701 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:52:59,571 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:52:59,581 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:52:59,586 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:53:00,217 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:53:00,218 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:53:17,519 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:53:18,402 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:53:18,424 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 13:53:19,911 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:53:20,810 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:53:20,819 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 13:53:20,848 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 13:53:21,288 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 13:53:21,288 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 13:54:28,456 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 13:54:28,456 - __main__ - INFO - Initializing chatbot
+2025-05-25 13:54:28,459 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 13:54:28] "GET / HTTP/1.1" 200 -
+2025-05-25 13:54:41,790 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:41] "GET /api/v1/health HTTP/1.1" 200 -
+2025-05-25 13:54:43,828 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:43] "GET /api/v1/supported-languages HTTP/1.1" 200 -
+2025-05-25 13:54:45,903 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:45] "GET /api/v1/markets HTTP/1.1" 200 -
+2025-05-25 13:54:47,960 - __main__ - INFO - Received chatbot message: 'Hello, I need help with banana prices' (language: english)
+2025-05-25 13:54:47,984 - __main__ - INFO - Chatbot response: I can provide current banana price predictions based on location, season, and market conditions. Please tell me your location and the type/quantity of bananas you have.
+2025-05-25 13:54:47,998 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:47] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 13:54:50,069 - __main__ - INFO - Received chatbot message: 'What's the current price of ambul bananas in Colombo for 50 kg?' (language: english)
+2025-05-25 13:54:50,137 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:50] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 13:54:52,165 - __main__ - INFO - Received chatbot message: 'Where should I sell my bananas? I have 100 kg in Kandy' (language: english)
+2025-05-25 13:54:52,188 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:52] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 13:54:54,249 - __main__ - INFO - Received chatbot message: 'How do I improve the quality of my bananas?' (language: english)
+2025-05-25 13:54:54,250 - __main__ - ERROR - Error processing chatbot message: 'EnhancedBananaChatbot' object has no attribute '_handle_quality_grading'
+2025-05-25 13:54:54,254 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 284, in chatbot_response
+    response_data = chatbot.get_comprehensive_response(message, language)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\enhanced_chatbot.py", line 345, in get_comprehensive_response
+    return self._handle_quality_grading(language)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EnhancedBananaChatbot' object has no attribute '_handle_quality_grading'
+
+2025-05-25 13:54:54,255 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:54] "[35m[1mPOST /api/v1/chatbot HTTP/1.1[0m" 500 -
+2025-05-25 13:54:56,311 - __main__ - INFO - Received chatbot message: 'What farming techniques should I use for better yield?' (language: english)
+2025-05-25 13:54:56,312 - __main__ - INFO - Chatbot response: I didn't quite understand that. I specialize in banana farming, pricing, market analysis, and agricultural guidance. Could you please rephrase your question or ask about:
+• Current banana prices
+• Market recommendations
+• Farming techniques
+• Quality standards
+• Storage/transport advice
+2025-05-25 13:54:56,314 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:56] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 13:54:58,491 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:54:58] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 13:55:00,533 - __main__ - INFO - Received chatbot message: 'Help me understand market trends' (language: english)
+2025-05-25 13:55:00,534 - __main__ - ERROR - Error processing chatbot message: 'EnhancedBananaChatbot' object has no attribute '_handle_market_trends'
+2025-05-25 13:55:00,536 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 284, in chatbot_response
+    response_data = chatbot.get_comprehensive_response(message, language)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\enhanced_chatbot.py", line 349, in get_comprehensive_response
+    return self._handle_market_trends(language)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EnhancedBananaChatbot' object has no attribute '_handle_market_trends'
+
+2025-05-25 13:55:00,536 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:00] "[35m[1mPOST /api/v1/chatbot HTTP/1.1[0m" 500 -
+2025-05-25 13:55:02,594 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50, 'description': 'Standard prediction - Ambul bananas in Colombo'}
+2025-05-25 13:55:02,595 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:02,609 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:02,610 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:02] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:04,669 - __main__ - INFO - Received prediction request: {'location': 'Kandy', 'banana_type': 'kolikuttu', 'quantity': 100, 'description': 'Bulk quantity - Kolikuttu bananas in Kandy'}
+2025-05-25 13:55:04,670 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:04,677 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:04,679 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:04] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:06,720 - __main__ - INFO - Received prediction request: {'location': 'Galle', 'banana_type': 'anamalu', 'quantity': 25, 'description': 'Small quantity - Anamalu bananas in Galle'}
+2025-05-25 13:55:06,723 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:06,729 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:06,731 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:06] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:08,784 - __main__ - INFO - Received prediction request: {'location': 'Jaffna', 'banana_type': 'ambul', 'quantity': 200, 'description': 'Large quantity - Ambul bananas in Jaffna'}
+2025-05-25 13:55:08,785 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:08,788 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:08,788 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:08] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:10,823 - __main__ - INFO - Received recommendation request: {'location': 'Kandy', 'quantity': 100, 'banana_type': 'ambul', 'description': 'Market recommendations for Kandy farmer'}
+2025-05-25 13:55:10,824 - __main__ - ERROR - Error generating recommendation: 'EnhancedBananaChatbot' object has no attribute 'get_market_recommendation'
+2025-05-25 13:55:10,826 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 249, in get_recommendation
+    recommendation = chatbot.get_market_recommendation(farmer_location, quantity, banana_type)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EnhancedBananaChatbot' object has no attribute 'get_market_recommendation'
+
+2025-05-25 13:55:10,828 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:10] "[35m[1mPOST /api/v1/recommend HTTP/1.1[0m" 500 -
+2025-05-25 13:55:12,869 - __main__ - INFO - Received recommendation request: {'location': 'Galle', 'quantity': 50, 'banana_type': 'kolikuttu', 'description': 'Market recommendations for Galle farmer'}
+2025-05-25 13:55:12,870 - __main__ - ERROR - Error generating recommendation: 'EnhancedBananaChatbot' object has no attribute 'get_market_recommendation'
+2025-05-25 13:55:12,873 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 249, in get_recommendation
+    recommendation = chatbot.get_market_recommendation(farmer_location, quantity, banana_type)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EnhancedBananaChatbot' object has no attribute 'get_market_recommendation'
+
+2025-05-25 13:55:12,874 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:12] "[35m[1mPOST /api/v1/recommend HTTP/1.1[0m" 500 -
+2025-05-25 13:55:14,933 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50}
+2025-05-25 13:55:14,934 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:14,938 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:14,939 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:14] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:16,995 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50}
+2025-05-25 13:55:16,996 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:16,999 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:16,999 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:16] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:19,042 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50}
+2025-05-25 13:55:19,044 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:19,047 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:19,048 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:19] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:21,079 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50}
+2025-05-25 13:55:21,081 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:21,086 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:21,088 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:21] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 13:55:23,144 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50}
+2025-05-25 13:55:23,145 - __main__ - ERROR - Error in price prediction: X has 4 features, but SelectKBest is expecting 33 features as input.
+2025-05-25 13:55:23,150 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\app.py", line 131, in predict_price
+    prediction = model.predict(features)[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\pipeline.py", line 480, in predict
+    Xt = transform.transform(Xt)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_selection\_base.py", line 83, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 588, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\kavin\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\base.py", line 389, in _check_n_features
+    raise ValueError(
+ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
+
+2025-05-25 13:55:23,152 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 13:55:23] "[35m[1mPOST /api/v1/predict HTTP/1.1[0m" 500 -
+2025-05-25 14:08:27,732 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\app.py', reloading
+2025-05-25 14:08:28,050 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 14:08:29,587 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:08:30,416 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:08:30,428 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 14:08:30,432 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 14:08:30,866 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 14:08:30,867 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 14:08:56,026 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\app.py', reloading
+2025-05-25 14:08:56,346 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 14:08:58,341 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:08:59,189 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:08:59,201 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 14:08:59,204 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 14:08:59,643 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 14:08:59,644 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 14:09:11,484 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\app.py', reloading
+2025-05-25 14:09:11,925 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 14:09:13,938 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:09:14,778 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:09:14,809 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 14:09:14,815 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 14:09:15,235 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 14:09:15,236 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 14:10:37,448 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\enhanced_chatbot.py', reloading
+2025-05-25 14:10:37,740 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 14:10:39,452 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:10:40,314 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:10:40,325 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 14:10:40,329 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 14:10:40,741 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 14:10:40,742 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 14:10:54,796 - werkzeug - INFO -  * Detected change in 'D:\\QL\\SmartMusa\\SmartMusa-20250524T234949Z-1-001\\SmartMusa\\enhanced_chatbot.py', reloading
+2025-05-25 14:10:55,142 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 14:10:56,755 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:10:57,552 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:10:57,562 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 14:10:57,565 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 14:10:58,070 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 14:10:58,071 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
