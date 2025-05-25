@@ -1,0 +1,38 @@
+2025-04-25 13:07:00,764 - __main__ - INFO - Loading model from C:\Users\RCS\Desktop\SmartMusa\banana_price_model.pkl
+2025-04-25 13:07:01,433 - __main__ - INFO - Initializing chatbot
+2025-04-25 13:07:01,469 - werkzeug - INFO -  * Restarting with stat
+2025-04-25 13:07:02,262 - __main__ - INFO - Loading model from C:\Users\RCS\Desktop\SmartMusa\banana_price_model.pkl
+2025-04-25 13:07:02,842 - __main__ - INFO - Initializing chatbot
+2025-04-25 13:07:02,873 - werkzeug - WARNING -  * Debugger is active!
+2025-04-25 13:07:02,878 - werkzeug - INFO -  * Debugger PIN: 986-265-678
+2025-04-25 13:07:02,964 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-25 13:07:02,965 - werkzeug - INFO -  * Running on http://192.168.219.132:5000/ (Press CTRL+C to quit)
+2025-04-25 13:22:17,048 - werkzeug - INFO -  * Detected change in 'C:\\Users\\RCS\\Desktop\\SmartMusa\\train_model.py', reloading
+2025-04-25 13:22:17,282 - werkzeug - INFO -  * Restarting with stat
+2025-04-25 13:22:18,182 - __main__ - INFO - Loading model from C:\Users\RCS\Desktop\SmartMusa\banana_price_model.pkl
+2025-04-25 13:22:18,780 - __main__ - INFO - Initializing chatbot
+2025-04-25 13:22:18,803 - werkzeug - WARNING -  * Debugger is active!
+2025-04-25 13:22:18,807 - werkzeug - INFO -  * Debugger PIN: 986-265-678
+2025-04-25 13:22:18,878 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-25 13:22:18,879 - werkzeug - INFO -  * Running on http://192.168.219.132:5000/ (Press CTRL+C to quit)
+2025-04-25 13:23:12,150 - werkzeug - INFO -  * Detected change in 'C:\\Users\\RCS\\Desktop\\SmartMusa\\visualize_model.py', reloading
+2025-04-25 13:23:12,333 - werkzeug - INFO -  * Restarting with stat
+2025-04-25 13:23:13,183 - __main__ - INFO - Loading model from C:\Users\RCS\Desktop\SmartMusa\banana_price_model.pkl
+2025-04-25 13:23:13,814 - __main__ - INFO - Initializing chatbot
+2025-04-25 13:23:13,850 - werkzeug - WARNING -  * Debugger is active!
+2025-04-25 13:23:13,853 - werkzeug - INFO -  * Debugger PIN: 986-265-678
+2025-04-25 13:23:13,930 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-25 13:23:13,930 - werkzeug - INFO -  * Running on http://192.168.219.132:5000/ (Press CTRL+C to quit)
+2025-04-25 15:12:27,123 - __main__ - INFO - Loading model from C:\Users\RCS\Desktop\SmartMusa\banana_price_model.pkl
+2025-04-25 15:12:27,661 - __main__ - INFO - Initializing chatbot
+2025-04-25 15:12:27,698 - werkzeug - INFO -  * Restarting with stat
+2025-04-25 15:12:28,463 - __main__ - INFO - Loading model from C:\Users\RCS\Desktop\SmartMusa\banana_price_model.pkl
+2025-04-25 15:12:28,946 - __main__ - INFO - Initializing chatbot
+2025-04-25 15:12:28,961 - werkzeug - WARNING -  * Debugger is active!
+2025-04-25 15:12:28,970 - werkzeug - INFO -  * Debugger PIN: 986-265-678
+2025-04-25 15:12:29,057 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-25 15:12:29,057 - werkzeug - INFO -  * Running on http://192.168.219.132:5000/ (Press CTRL+C to quit)
