@@ -440,3 +440,62 @@ ValueError: X has 4 features, but SelectKBest is expecting 33 features as input.
 2025-05-25 14:10:58,070 - werkzeug - WARNING -  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 2025-05-25 14:10:58,071 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 14:11:36,224 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:11:37,044 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:11:37,063 - werkzeug - INFO -  * Restarting with stat
+2025-05-25 14:11:38,478 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:11:39,313 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:11:39,323 - werkzeug - WARNING -  * Debugger is active!
+2025-05-25 14:11:39,328 - werkzeug - INFO -  * Debugger PIN: 122-013-896
+2025-05-25 14:11:39,746 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-05-25 14:11:39,747 - werkzeug - INFO -  * Running on http://192.168.8.113:5000/ (Press CTRL+C to quit)
+2025-05-25 14:12:15,795 - __main__ - INFO - Loading model from D:\QL\SmartMusa\SmartMusa-20250524T234949Z-1-001\SmartMusa\banana_price_model.pkl
+2025-05-25 14:12:15,795 - __main__ - INFO - Initializing chatbot
+2025-05-25 14:12:15,811 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 14:12:15] "GET / HTTP/1.1" 200 -
+2025-05-25 14:12:19,729 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 14:12:19] "GET / HTTP/1.1" 200 -
+2025-05-25 14:12:25,185 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 14:12:25] "GET / HTTP/1.1" 200 -
+2025-05-25 14:13:02,345 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:02] "GET /api/v1/health HTTP/1.1" 200 -
+2025-05-25 14:13:04,421 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:04] "GET /api/v1/supported-languages HTTP/1.1" 200 -
+2025-05-25 14:13:06,471 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:06] "GET /api/v1/markets HTTP/1.1" 200 -
+2025-05-25 14:13:08,509 - __main__ - INFO - Received chatbot message: 'Hello, I need help with banana prices' (language: english)
+2025-05-25 14:13:08,515 - __main__ - INFO - Chatbot response: I can provide current banana price predictions based on location, season, and market conditions. Please tell me your location and the type/quantity of bananas you have.
+2025-05-25 14:13:08,515 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:08] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:10,558 - __main__ - INFO - Received chatbot message: 'What's the current price of ambul bananas in Colombo for 50 kg?' (language: english)
+2025-05-25 14:13:10,572 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:10] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:12,631 - __main__ - INFO - Received chatbot message: 'Where should I sell my bananas? I have 100 kg in Kandy' (language: english)
+2025-05-25 14:13:12,654 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:12] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:14,722 - __main__ - INFO - Received chatbot message: 'How do I improve the quality of my bananas?' (language: english)
+2025-05-25 14:13:14,734 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:14] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:16,787 - __main__ - INFO - Received chatbot message: 'What are the best storage methods for bananas?' (language: english)
+2025-05-25 14:13:16,794 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:16] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:18,870 - __main__ - INFO - Received chatbot message: 'Help me understand market trends' (language: english)
+2025-05-25 14:13:18,894 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:18] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:20,952 - __main__ - INFO - Received chatbot message: 'What farming techniques should I use for better yield?' (language: english)
+2025-05-25 14:13:20,952 - __main__ - INFO - Chatbot response: I didn't quite understand that. I specialize in banana farming, pricing, market analysis, and agricultural guidance. Could you please rephrase your question or ask about:
+• Current banana prices
+• Market recommendations
+• Farming techniques
+• Quality standards
+• Storage/transport advice
+2025-05-25 14:13:20,952 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:20] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:23,020 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:23] "POST /api/v1/chatbot HTTP/1.1" 200 -
+2025-05-25 14:13:25,067 - __main__ - INFO - Received prediction request: {'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50, 'description': 'Standard prediction - Ambul bananas in Colombo'}
+2025-05-25 14:13:25,067 - __main__ - INFO - Prepared 33 enhanced features for prediction
+2025-05-25 14:13:25,076 - __main__ - INFO - Prediction result: {'prediction': {'price': 191.98904168282218, 'currency': 'LKR', 'location': 'Colombo', 'banana_type': 'ambul', 'quantity': 50, 'date': '2025-05-25', 'confidence': 'high'}, 'features_count': 33, 'model_type': 'enhanced'}
+2025-05-25 14:13:25,076 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:25] "POST /api/v1/predict HTTP/1.1" 200 -
+2025-05-25 14:13:27,111 - __main__ - INFO - Received prediction request: {'location': 'Kandy', 'banana_type': 'kolikuttu', 'quantity': 100, 'description': 'Bulk quantity - Kolikuttu bananas in Kandy'}
+2025-05-25 14:13:27,111 - __main__ - INFO - Prepared 33 enhanced features for prediction
+2025-05-25 14:13:27,111 - __main__ - INFO - Prediction result: {'prediction': {'price': 192.5303954607253, 'currency': 'LKR', 'location': 'Kandy', 'banana_type': 'kolikuttu', 'quantity': 100, 'date': '2025-05-25', 'confidence': 'high'}, 'features_count': 33, 'model_type': 'enhanced'}
+2025-05-25 14:13:27,111 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:27] "POST /api/v1/predict HTTP/1.1" 200 -
+2025-05-25 14:13:29,163 - __main__ - INFO - Received prediction request: {'location': 'Galle', 'banana_type': 'anamalu', 'quantity': 25, 'description': 'Small quantity - Anamalu bananas in Galle'}
+2025-05-25 14:13:29,163 - __main__ - INFO - Prepared 33 enhanced features for prediction
+2025-05-25 14:13:29,163 - __main__ - INFO - Prediction result: {'prediction': {'price': 193.0717492386284, 'currency': 'LKR', 'location': 'Galle', 'banana_type': 'anamalu', 'quantity': 25, 'date': '2025-05-25', 'confidence': 'high'}, 'features_count': 33, 'model_type': 'enhanced'}
+2025-05-25 14:13:29,163 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:29] "POST /api/v1/predict HTTP/1.1" 200 -
+2025-05-25 14:13:31,241 - __main__ - INFO - Received recommendation request: {'location': 'Kandy', 'quantity': 100, 'banana_type': 'ambul', 'description': 'Market recommendations for Kandy farmer'}
+2025-05-25 14:13:31,241 - __main__ - INFO - Recommendation result: {'recommendations': [{'name': 'Colombo Market', 'price': 144.0, 'transport_cost': 5, 'net_profit': 13900.0, 'demand': 'high'}, {'name': 'Jaffna Market', 'price': 150.0, 'transport_cost': 15, 'net_profit': 13500.0, 'demand': 'high'}, {'name': 'Galle Market', 'price': 138.0, 'transport_cost': 10, 'net_profit': 12800.0, 'demand': 'medium'}, {'name': 'Kandy Market', 'price': 132.0, 'transport_cost': 8, 'net_profit': 12400.0, 'demand': 'medium'}, {'name': 'Anuradhapura Market', 'price': 126.0, 'transport_cost': 12, 'net_profit': 11400.0, 'demand': 'low'}, {'name': 'Dambulla Market', 'price': 120.0, 'transport_cost': 6, 'net_profit': 11400.0, 'demand': 'high'}], 'farmer_location': 'Kandy', 'quantity': 100, 'banana_type': 'ambul', 'status': 'success'}
+2025-05-25 14:13:31,244 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:31] "POST /api/v1/recommend HTTP/1.1" 200 -
+2025-05-25 14:13:33,295 - __main__ - INFO - Received recommendation request: {'location': 'Galle', 'quantity': 50, 'banana_type': 'kolikuttu', 'description': 'Market recommendations for Galle farmer'}
+2025-05-25 14:13:33,295 - __main__ - INFO - Recommendation result: {'recommendations': [{'name': 'Colombo Market', 'price': 120.0, 'transport_cost': 5, 'net_profit': 5750.0, 'demand': 'high'}, {'name': 'Jaffna Market', 'price': 125.0, 'transport_cost': 15, 'net_profit': 5500.0, 'demand': 'high'}, {'name': 'Galle Market', 'price': 115.0, 'transport_cost': 10, 'net_profit': 5250.0, 'demand': 'medium'}, {'name': 'Kandy Market', 'price': 110.0, 'transport_cost': 8, 'net_profit': 5100.0, 'demand': 'medium'}, {'name': 'Dambulla Market', 'price': 100.0, 'transport_cost': 6, 'net_profit': 4700.0, 'demand': 'high'}, {'name': 'Anuradhapura Market', 'price': 105.0, 'transport_cost': 12, 'net_profit': 4650.0, 'demand': 'low'}], 'farmer_location': 'Galle', 'quantity': 50, 'banana_type': 'kolikuttu', 'status': 'success'}
+2025-05-25 14:13:33,295 - werkzeug - INFO - 127.0.0.1 - - [25/May/2025 14:13:33] "POST /api/v1/recommend HTTP/1.1" 200 -
+2025-05-25 16:25:26,125 - werkzeug - INFO - 192.168.8.113 - - [25/May/2025 16:25:26] "GET / HTTP/1.1" 200 -
